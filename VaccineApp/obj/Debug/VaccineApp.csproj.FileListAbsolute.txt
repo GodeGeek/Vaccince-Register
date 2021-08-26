@@ -1,0 +1,10 @@
+C:\Users\arnoc\source\repos\VaccineApp\VaccineApp\obj\Debug\VaccineApp.csprojAssemblyReference.cache
+C:\Users\arnoc\source\repos\VaccineApp\VaccineApp\obj\Debug\VaccineApp.Form1.resources
+C:\Users\arnoc\source\repos\VaccineApp\VaccineApp\obj\Debug\VaccineApp.Properties.Resources.resources
+C:\Users\arnoc\source\repos\VaccineApp\VaccineApp\obj\Debug\VaccineApp.csproj.GenerateResource.cache
+C:\Users\arnoc\source\repos\VaccineApp\VaccineApp\obj\Debug\VaccineApp.csproj.CoreCompileInputs.cache
+C:\Users\arnoc\source\repos\VaccineApp\VaccineApp\bin\Debug\VaccineApp.exe.config
+C:\Users\arnoc\source\repos\VaccineApp\VaccineApp\bin\Debug\VaccineApp.exe
+C:\Users\arnoc\source\repos\VaccineApp\VaccineApp\bin\Debug\VaccineApp.pdb
+C:\Users\arnoc\source\repos\VaccineApp\VaccineApp\obj\Debug\VaccineApp.exe
+C:\Users\arnoc\source\repos\VaccineApp\VaccineApp\obj\Debug\VaccineApp.pdb
